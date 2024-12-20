@@ -43,15 +43,5 @@ Erişim Kontrolü: Belirli IP adreslerini veya portları sınırlar.
 Veri Sızıntısını Engelleme: Hassas bilgilerin dışarı sızmasını önler.
 ```
 
-##  FIREWALL TÜRLERİ:
-
-```
-Firewall’lar, kullanım amacına ve yapılarına göre farklı türlere ayrılır:
-
-Donanım Tabanlı Firewall: Fiziksel cihaz üzerinde çalışır. Büyük ağlar için uygundur.
-Yazılım Tabanlı Firewall: Bilgisayar veya sunucuda çalışır. Bireysel ve küçük işletmelerde yaygındır.
-Bulut Tabanlı Firewall: Bulut altyapısını kullanır ve esnek bir koruma sağlar.
-Ağ Seviyesi Firewall: Paket filtreleme yapar; hızlı ancak temel güvenlik sağlar.
-Uygulama Seviyesi Firewall: Daha ayrıntılı analiz yaparak spesifik uygulamaları korur.
 
 
