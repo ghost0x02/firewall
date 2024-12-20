@@ -1,3 +1,5 @@
+<a href="https://hizliresim.com/4yl98fn"><img src="https://i.hizliresim.com/4yl98fn.jpg" alt="Resim Yükle"></a>
+
 ## KURULUM:
 
 ```
