@@ -73,8 +73,7 @@ if __name__ == "__main__":
     print(Fore.RED + "")
     target = input("Host Girin: ").strip()
     os.system("figlet firewall")
-    print(Fore.GREEN + "CODED BY ghost0x02 - enesxsec ")
-
+   
     if not target.startswith("http://") and not target.startswith("https://"):
         print("Geçerli bir URL giriniz (http:// veya https:// ile başlamalı).")
     elif check_target_accessibility(target):
