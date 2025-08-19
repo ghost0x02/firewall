@@ -75,7 +75,7 @@ if __name__ == "__main__":
     os.system("figlet firewall")
    
     if not target.startswith("http://") and not target.startswith("https://"):
-        print("Geçerli bir URL giriniz (http:// veya https:// ile başlamalı).")
+        print("(http:// veya https:// ile başlamalı).")
     elif check_target_accessibility(target):
         scanner = FirewallScanner(target)
         scanner.scan()
